@@ -1,0 +1,11 @@
+C:\Users\kellyw\Dropbox\IFN660\Original\bin\Debug\ShiftReduceParser.dll
+C:\Users\kellyw\Dropbox\IFN660\Original\bin\Debug\ShiftReduceParser.pdb
+C:\Users\kellyw\Dropbox\IFN660\Original\ShiftReduceParser\obj\Debug\ShiftReduceParser.csproj.CoreCompileInputs.cache
+C:\Users\kellyw\Dropbox\IFN660\Original\ShiftReduceParser\obj\Debug\ShiftReduceParser.dll
+C:\Users\kellyw\Dropbox\IFN660\Original\ShiftReduceParser\obj\Debug\ShiftReduceParser.pdb
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\bin\Debug\ShiftReduceParser.dll
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\bin\Debug\ShiftReduceParser.pdb
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\ShiftReduceParser\obj\Debug\ShiftReduceParser.csprojResolveAssemblyReference.cache
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\ShiftReduceParser\obj\Debug\ShiftReduceParser.csproj.CoreCompileInputs.cache
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\ShiftReduceParser\obj\Debug\ShiftReduceParser.dll
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\ShiftReduceParser\obj\Debug\ShiftReduceParser.pdb
