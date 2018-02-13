@@ -1,0 +1,20 @@
+C:\Users\kellyw\Dropbox\IFN660\Original\bin\Debug\Gplex.exe
+C:\Users\kellyw\Dropbox\IFN660\Original\bin\Debug\Gplex.pdb
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\QUT.Gplex.IncludeResources.Content.resources
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\QUT.Gplex.Properties.Resources.resources
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\GPLEXv1.csproj.GenerateResource.Cache
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\GPLEXv1.csproj.CoreCompileInputs.cache
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\Gplex.exe
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\Gplex.pdb
+C:\Users\kellyw\Dropbox\IFN660\Original\GPLEX\obj\Debug\GPLEXv1.csprojResolveAssemblyReference.cache
+C:\Users\kellyw\Dropbox\IFN660\Original\bin\Debug\Gplex.exe.config
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\bin\Debug\Gplex.exe.config
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\bin\Debug\Gplex.exe
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\bin\Debug\Gplex.pdb
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\GPLEXv1.csprojResolveAssemblyReference.cache
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\QUT.Gplex.IncludeResources.Content.resources
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\QUT.Gplex.Properties.Resources.resources
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\GPLEXv1.csproj.GenerateResource.Cache
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\GPLEXv1.csproj.CoreCompileInputs.cache
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\Gplex.exe
+C:\Users\kellyw\Dropbox\IFN660\Gardens Point Compiler Tools\src\GPLEX\obj\Debug\Gplex.pdb
